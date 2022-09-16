@@ -1,0 +1,15 @@
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Examples\Ex01_HelloWorld\bin\Debug\net6.0\Ex01_HelloWorld.exe
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Examples\Ex01_HelloWorld\bin\Debug\net6.0\Ex01_HelloWorld.deps.json
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Examples\Ex01_HelloWorld\bin\Debug\net6.0\Ex01_HelloWorld.runtimeconfig.json
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Examples\Ex01_HelloWorld\bin\Debug\net6.0\Ex01_HelloWorld.dll
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Examples\Ex01_HelloWorld\bin\Debug\net6.0\Ex01_HelloWorld.pdb
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Examples\Ex01_HelloWorld\obj\Debug\net6.0\Ex01_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Examples\Ex01_HelloWorld\obj\Debug\net6.0\Ex01_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Examples\Ex01_HelloWorld\obj\Debug\net6.0\Ex01_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Examples\Ex01_HelloWorld\obj\Debug\net6.0\Ex01_HelloWorld.AssemblyInfo.cs
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Examples\Ex01_HelloWorld\obj\Debug\net6.0\Ex01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Examples\Ex01_HelloWorld\obj\Debug\net6.0\Ex01_HelloWorld.dll
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Examples\Ex01_HelloWorld\obj\Debug\net6.0\refint\Ex01_HelloWorld.dll
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Examples\Ex01_HelloWorld\obj\Debug\net6.0\Ex01_HelloWorld.pdb
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Examples\Ex01_HelloWorld\obj\Debug\net6.0\Ex01_HelloWorld.genruntimeconfig.cache
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Examples\Ex01_HelloWorld\obj\Debug\net6.0\ref\Ex01_HelloWorld.dll
